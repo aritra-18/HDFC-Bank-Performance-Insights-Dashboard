@@ -1,4 +1,4 @@
-# HDFC-Bank-s-Performance-Insights-Dashboard
+# HDFC-Bank-Performance-Insights-Dashboard
 A comprehensive HDFC Bank dashboard for analyzing debit and credit card metrics, enabling data-driven decision-making and performance evaluation.
 
 This repository contains a comprehensive dashboard developed for HDFC Bank, one of the top banks in India, to assess its performance in the debit and credit card segment relative to the industry. The dashboard provides key performance indicators (KPIs) such as the number of cards issued, transactions, spending, spend per card, and average transaction size. It also includes market share analysis based on the number of cards issued, number of transactions, and spending.
