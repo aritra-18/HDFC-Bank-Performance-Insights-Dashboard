@@ -6,3 +6,5 @@ This repository contains a comprehensive dashboard developed for HDFC Bank, one 
 The dashboard is built using Python for web scraping, Excel for data preparation, and Tableau for data visualization. It allows the user to filter the data by card type (credit or debit), select a specific bank for performance comparison, and choose a month for analysis. The dashboard offers a high-level view of the selected bank's performance, tracks month-on-month growth, and provides detailed insights into market share and KPI trends. Additionally, it highlights the top-performing banks based on the selected criteria.
 
 With this data-driven approach, the HDFC Bank leadership aims to make informed decisions, analyze customer behavior, and ensure the bank maintains its position as one of the leading banks in India.
+
+![Credit and Debit Card Usage Monitoring Dashboard 3](https://github.com/aritra-18/HDFC-Bank-s-Performance-Insights-Dashboard/assets/116475666/b182dfa7-22f4-4b5e-934d-92b595ec6aaa)
